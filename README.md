@@ -1,17 +1,16 @@
 # Malaysian-Vaccination-Analytic
 
-[Google Data Studio Dashboard url](https://datastudio.google.com/reporting/e7a2a19f-65bd-431a-b20e-72484f2420b3) <br>
+This is the end-to-end project that to visualize the vaccination status in Malaysia. The initiative for
+In this project, I have built the ETL pipeline to scrap the raw data from Malaysia MOH Github.
+And process the data then insert into Google Big Query (GBQ). Data Scrapper & Data Transformation are hosted in AWS Lambda.
+At the end, I have built an interactive dashboard at Google Data Studio.
 
+[Google Data Studio Dashboard url](https://datastudio.google.com/reporting/e7a2a19f-65bd-431a-b20e-72484f2420b3) <br>
 
 <img src="https://github.com/hoe94/Malaysian-Vaccination-Analytic/blob/main/Screenshot%202021-12-31%20112738.png"/>
 <img src="https://github.com/hoe94/Malaysian-Vaccination-Analytic/blob/main/Screenshot%202021-12-31%20112800.png"/>
 <img src="https://github.com/hoe94/Malaysian-Vaccination-Analytic/blob/main/Screenshot%202021-12-31%20112813.png"/>
 <img src="https://github.com/hoe94/Malaysian-Vaccination-Analytic/blob/main/Screenshot%202021-12-31%20112843.png"/>
-
-This is the end-to-end project that to visualize the vaccination status in Malaysia. The initiative for
-In this project, I have built the ETL pipeline to scrap the raw data from Malaysia MOH Github.
-And process the data then insert into Google Big Query (GBQ). Data Scrapper & Data Transformation are hosted in AWS Lambda.
-At the end, I have built an interactive dashboard at Google Data Studio.
 
 For more details, you may refer the linkedin post I have shared.
 
